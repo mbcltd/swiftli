@@ -7,9 +7,9 @@ Currently Implemented
 ---------------------
 
 - ArrayList
--- find
--- head
--- tail
--- isEmpty
--- length
+ - find
+ - head
+ - tail
+ - isEmpty
+ - length
 
