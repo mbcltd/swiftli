@@ -9,8 +9,6 @@
 
 class ArrayList<T> {
     
-    typealias M = T
-    
     let array:T[]
     let r:Range<Int>
     
